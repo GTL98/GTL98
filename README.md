@@ -2,7 +2,7 @@
 
 - 👀 Gosto muito de Biotecnologia, Python, Bioinformática, Inteligência Artificial e Redes Neurais!
 - 📖 Atualmente estou estudando Inteligência Artificial e Visão Computacional! 
-- 💞️ Estou a procura de oportunidades em Análise de Dados e Inteligência Artificial!
+- 💞️ Estou a procura de oportunidades em Análise de Dados, Inteligência Artificial e Visão Computacional!
 
 <div align="center">
   <a href="https://github.com/GTL98">
