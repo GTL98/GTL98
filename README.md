@@ -14,7 +14,7 @@
   <img align="center" alt="Gui-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Gui-Jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Gui-Jupyter" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png">
-  <a href="http://rosalind.info/users/Gui/" target="_blank"><img align="center" alt="Gui-Jupyter" height="40" width="167" src="http://rosalind.info/static/img/logo.png?v=1560257990"></a>
+  <a href="https://rosalind.info/users/Gui98/" target="_blank"><img align="center" alt="Gui-Jupyter" height="40" width="167" src="http://rosalind.info/static/img/logo.png?v=1560257990"></a>
 </div>
 
   ##
