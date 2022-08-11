@@ -1,8 +1,8 @@
 ## Oi, eu sou o Guilherme (não o Goku)!
 
-- 👀 Gosto muito de Biotecnologia, Python, Bioinformática, Inteligência Artificial e Visão Computacional!
-- 📖 Atualmente estou estudando Bioinformática! 
-- 💞️ Estou a procura de oportunidades em Bioinformática e Visão Computacional!
+- 👀 Gosto muito de Biotecnologia, Python, Bioinformática, Inteligência Artificial e Desenvolvimento de jogos!
+- 📖 Atualmente estou estudando Bioinformática e Desenvovimento de jogos! 
+- 💞️ Estou a procura de oportunidades em Bioinformática e Inteligência Artificial!
 
 <div align="center">
   <a href="https://github.com/GTL98">
