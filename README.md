@@ -1,7 +1,7 @@
 ## Oi, eu sou o Guilherme (não o Goku)!
 
-- 👀 Gosto muito de Biotecnologia, Python, Bioinformática, Inteligência Artificial e Desenvolvimento de jogos!
-- 📖 Atualmente estou estudando Bioinformática e Desenvovimento de jogos! 
+- 👀 Gosto muito de Biotecnologia, Python, Bioinformática, Inteligência Artificial e Desenvolvimento de App para Desktop!
+- 📖 Atualmente estou estudando Bioinformática e Computação Afetiva! 
 - 💞️ Estou a procura de oportunidades em Bioinformática e Inteligência Artificial!
 
 <div align="center">
