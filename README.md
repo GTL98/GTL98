@@ -43,6 +43,12 @@ Estudante de Mestrado em Bioinformática pela Universidade Federal do Paraná (U
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100">&nbsp;
   <img src="https://biopython.org/assets/images/biopython_logo_s.png" width="80">&nbsp;
 </div>
+
+---
+
+### :fire: Meus status:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GTL98&theme=vision-friendly-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTL98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 GTL98/GTL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
