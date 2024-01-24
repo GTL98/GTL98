@@ -33,6 +33,16 @@ Estudante de Mestrado em Bioinformática pela Universidade Federal do Paraná (U
 - :desktop_computer: Gosto muito de desenvolver aplicativos com a biblioteca Streamlit para o campo de análise de dados, otimização de processos e coisas do dia a dia.
 - :musical_note: No meu tempo livre gosto de compor e estudar música.
 
+---
+
+### :hammer_and_wrench: Linguagem e ferramentas:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="60">&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100">&nbsp;
+  <img src="https://biopython.org/assets/images/biopython_logo_s.png" width="80">&nbsp;
+</div>
 <!---
 GTL98/GTL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
