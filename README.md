@@ -10,13 +10,28 @@
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Logo Instagram">
   </a>
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GTL98&label=Visitantes&color=blueviolet" alt="">
 </div>
+
 <h1>
   Olá, cientista!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+
+<div align="center">
+  <img src="https://engineering.nyu.edu/sites/default/files/2021-09/bioinformatics-ms-main-hero-animated_0.gif" width="400">
+</div>
+
+---
+
+### :man_scientist: Sobre mim:
+Estudante de Mestrado em Bioinformática pela Universidade Federal do Paraná (UFPR).
+- :book: Meu projeto de bioinformática é no campo da computação (medicina) afetiva. O projeto consiste em encontrar novas bactérias intestinais capazes de auxiliar na saúde mental.
+- :snake: Desenvolvo todos os meus projetos e algoritmos em Python. Gosto muito dessa linguagem!
+- :desktop_computer: Gosto muito de desenvolver aplicativos com a biblioteca Streamlit para o campo de análise de dados, otimização de processos e coisas do dia a dia.
+- :musical_note: No meu tempo livre gosto de compor e estudar música.
 
 <!---
 GTL98/GTL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
