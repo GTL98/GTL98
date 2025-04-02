@@ -27,11 +27,11 @@
 ---
 
 ### :man_scientist: Sobre mim:
-Estudante de Mestrado em Bioinformática pela Universidade Federal do Paraná (UFPR).
+Estudante de Mestrado em Bioinformática pela Universidade Federal do Paraná (UFPR) e professor de Python para análise de dados pela Yto Nihon treinamentos.
 - :book: Meu projeto de bioinformática é no campo da computação (medicina) afetiva. O projeto consiste em encontrar novas bactérias intestinais capazes de auxiliar na saúde mental.
 - :snake: Desenvolvo todos os meus projetos e algoritmos em Python. Gosto muito dessa linguagem!
-- :desktop_computer: Gosto muito de desenvolver aplicativos com a biblioteca Streamlit para o campo de análise de dados, otimização de processos e coisas do dia a dia.
-- :musical_note: No meu tempo livre gosto de compor e estudar música.
+- :desktop_computer: Gosto muito de desenvolver aplicativos com a biblioteca Streamlit e PySide2 para o campo de análise de dados, otimização de processos e coisas do dia a dia.
+- :musical_note: No meu tempo livre gosto de ler e estudar música.
 
 ---
 
