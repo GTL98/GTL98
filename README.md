@@ -9,6 +9,9 @@
   <a href="https://www.instagram.com/gui.trev/">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Logo Instagram">
   </a>
+  <a href="https://www.youtube.com/@Mundo_Python">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCl1JUTpU7mPzDnNsjvgFWUw" alt="Logo YouTube">
+  </a>a>
 </div>
 
 <div align="center">
