@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/guilherme-trevisan-linhares">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Logo LinkedIn">
   </a>
-  <a href="https://www.instagram.com/gui.trev/">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Logo Instagram">
-  </a>
   <a href="https://www.youtube.com/@Mundo_Python">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCl1JUTpU7mPzDnNsjvgFWUw" alt="Logo YouTube">
   </a>
