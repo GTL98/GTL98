@@ -47,8 +47,8 @@ Mestre em Bioinformática pela Universidade Federal do Paraná (UFPR).
 ---
 
 ### :fire: Meus status:
-[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=GTL98&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)]
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=GTL98&langs_count=4&theme=midnight-purple)]
+![GitHub Streak](https://github-stats-extended.vercel.app/api?username=GTL98&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=midnight-purple)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=GTL98&langs_count=4&theme=midnight-purple)
 <!---
 GTL98/GTL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
